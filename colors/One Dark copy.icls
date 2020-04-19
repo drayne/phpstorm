@@ -298,6 +298,14 @@
         <option name="FOREGROUND" value="e895ff" />
       </value>
     </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="FOREGROUND" value="5f6985" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f6985" />
@@ -428,7 +436,9 @@
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="5f6985" />
+      </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
