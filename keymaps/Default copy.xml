@@ -1,6 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift context_menu" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />

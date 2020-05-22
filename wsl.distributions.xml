@@ -63,6 +63,12 @@
           <presentable-name>Ubuntu 18.04</presentable-name>
         </descriptor>
         <descriptor>
+          <id>UBUNTU2004</id>
+          <microsoft-id>Ubuntu-20.04</microsoft-id>
+          <executable-path>ubuntu2004.exe</executable-path>
+          <presentable-name>Ubuntu 20.04</presentable-name>
+        </descriptor>
+        <descriptor>
           <id>WLINUX</id>
           <microsoft-id>WLinux</microsoft-id>
           <executable-path>wlinux.exe</executable-path>
