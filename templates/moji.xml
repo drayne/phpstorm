@@ -69,4 +69,31 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="axd" value="axios.delete('$route$') //add id to route: + id&#10;    .then(response =&gt; {&#10;        //redirect or inform&#10;    })&#10;    .catch(error =&gt; {&#10;        console.log('Internal error. Unable to delete.')                    &#10;    })" description="Axios delete" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axg" value="axios.get('$route$')&#10;    .then(response =&gt; {&#10;        this.$data$ = response.data&#10;        this.loading = false&#10;    })&#10;    .catch(error =&gt; {&#10;        this.loading = false&#10;        if (error.response.status === 404) {&#10;            this.$router.push('/')&#10;        }&#10;    })" description="Axios get" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axp" value="axios.post('$route$', $data$)&#10;    .then(response =&gt; {&#10;        //redirect or display with below&#10;        this.data = response.data&#10;    })&#10;    .catch(errors =&gt; {&#10;        this.errors = errors.response.data.errors&#10;    })" description="Axios post" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axpt" value="axios.patch('$route$', $data$) //add id to route: +id&#10;    .then(response =&gt; {&#10;        //redirect or display with below&#10;        this.data = response.data&#10;    })&#10;    .catch(errors =&gt; {&#10;        this.errors = errors.response.data.errors&#10;    })" description="Axios patch" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
