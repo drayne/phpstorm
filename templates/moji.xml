@@ -75,7 +75,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="axg" value="axios.get('$route$')&#10;    .then(response =&gt; {&#10;        this.$data$ = response.data&#10;        this.loading = false&#10;    })&#10;    .catch(error =&gt; {&#10;        this.loading = false&#10;        if (error.response.status === 404) {&#10;            this.$router.push('/')&#10;        }&#10;    })" description="Axios get" toReformat="false" toShortenFQNames="true">
+  <template name="axg" value="axios.get('$route$/' + this.$route.params.id)&#10;    .then(response =&gt; {&#10;        this.$data$ = response.data&#10;        this.loading = false&#10;    })&#10;    .catch(error =&gt; {&#10;        this.loading = false&#10;        if (error.response.status === 404) {&#10;            this.$router.push('/')&#10;        }&#10;    })" description="Axios get one" toReformat="false" toShortenFQNames="true">
     <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -90,6 +90,26 @@
     </context>
   </template>
   <template name="axpt" value="axios.patch('$route$', $data$) //add id to route: +id&#10;    .then(response =&gt; {&#10;        //redirect or display with below&#10;        this.data = response.data&#10;    })&#10;    .catch(errors =&gt; {&#10;        this.errors = errors.response.data.errors&#10;    })" description="Axios patch" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="&lt;rou" value="&lt;router-link :to=&quot;'/text/route' + $id$&quot;&gt;$name$&lt;/router-link&gt;" description="router-link string" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="&lt;ro" value="&lt;router-link to=&quot;/&quot;&gt;$name$&lt;/router-link&gt;" description="router-link route" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axga" value="axios.get('$route$')&#10;    .then(response =&gt; {&#10;        this.$data$ = response.data&#10;        this.loading = false&#10;    })&#10;    .catch(error =&gt; {&#10;        this.loading = false&#10;        console.log('Unable to fetch')&#10;    })" description="Axios get all" toReformat="false" toShortenFQNames="true">
     <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
