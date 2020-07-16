@@ -9,9 +9,11 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="SOFT_MARGINS" value="120" />
   </codeStyleSettings>
 </code_scheme>
