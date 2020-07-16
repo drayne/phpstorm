@@ -1,5 +1,12 @@
-<scheme name="One Dark copy" version="142" parent_scheme="Default">
+<scheme name="One dark moja" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-07-16T11:14:52</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-07-16T11:14:58</property>
+    <property name="originalScheme">One Dark copy</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
