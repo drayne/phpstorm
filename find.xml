@@ -13,10 +13,10 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
-    <mask>*.scss</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
