@@ -15,9 +15,9 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
