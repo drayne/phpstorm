@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="confirmation-modal.scss" type="AUTO_DETECTED" />
       <mapping pattern="temp" type="JavaScript" />
+      <mapping pattern="confirmation-modal" type="Native" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ezt" type="Smarty" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
