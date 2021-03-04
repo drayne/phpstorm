@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="CartValidationPlugin.js" type="AUTO_DETECTED" />
       <mapping pattern="temp" type="JavaScript" />
+      <mapping pattern="CartValidationPlugin.js" type="JavaScript" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="CartValidationPlugin.js" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
