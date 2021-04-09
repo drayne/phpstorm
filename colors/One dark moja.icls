@@ -4,7 +4,7 @@
     <property name="created">2020-07-16T11:14:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2021-04-09T13:57:03</property>
+    <property name="modified">2021-04-09T14:06:35</property>
     <property name="originalScheme">One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
@@ -47,6 +47,7 @@
     <option name="GUTTER_BACKGROUND" value="263238" />
     <option name="HTML_TAG_TREE_LEVEL0" value="eaf6ff" />
     <option name="INDENT_GUIDE" value="4f4f27" />
+    <option name="INFORMATION_HINT" value="4b4d4d" />
     <option name="LINE_NUMBERS_COLOR" value="717a8e" />
     <option name="METHOD_SEPARATORS_COLOR" value="656565" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -58,6 +59,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="ScrollBar.thumbColor" value="73737347" />
     <option name="TEARLINE_COLOR" value="656565" />
+    <option name="TOOLTIP" value="4b4d4d" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
