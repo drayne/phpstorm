@@ -4,7 +4,7 @@
     <property name="created">2020-07-16T11:14:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-07-22T20:54:45</property>
+    <property name="modified">2021-04-09T13:57:03</property>
     <property name="originalScheme">One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
@@ -28,6 +28,7 @@
     <option name="DIAGRAM_NOTE_BACKGROUND" value="4f5252" />
     <option name="DIAGRAM_NOTE_BORDER" value="707375" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="609350" />
+    <option name="DOCUMENTATION_COLOR" value="343c4a" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -53,8 +54,9 @@
     <option name="RIGHT_MARGIN_COLOR" value="3c3f41" />
     <option name="SELECTED_INDENT_GUIDE" value="fdffbb" />
     <option name="SELECTED_TEARLINE_COLOR" value="898941" />
-    <option name="SELECTION_BACKGROUND" value="666d86" />
+    <option name="SELECTION_BACKGROUND" value="4c5870" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="ScrollBar.thumbColor" value="73737347" />
     <option name="TEARLINE_COLOR" value="656565" />
     <option name="WHITESPACES" value="505050" />
   </colors>
