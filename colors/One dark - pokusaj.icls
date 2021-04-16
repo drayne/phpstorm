@@ -4,7 +4,7 @@
     <property name="created">2021-04-16T14:27:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-16T15:31:43</property>
+    <property name="modified">2021-04-16T17:06:47</property>
     <property name="originalScheme">One dark moja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
@@ -18,7 +18,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="2c323c" />
+    <option name="CARET_ROW_COLOR" value="343c4a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="bbbbbb" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="589df6" />
@@ -44,18 +44,19 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="343c4a" />
+    <option name="GUTTER_BACKGROUND" value="2c3039" />
     <option name="HTML_TAG_TREE_LEVEL0" value="eaf6ff" />
     <option name="INDENT_GUIDE" value="4f4f27" />
     <option name="INFORMATION_HINT" value="4b4d4d" />
-    <option name="LINE_NUMBERS_COLOR" value="717a8e" />
+    <option name="LINE_NUMBERS_COLOR" value="6e80a2" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="656565" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="3c3f41" />
     <option name="SELECTED_INDENT_GUIDE" value="fdffbb" />
     <option name="SELECTED_TEARLINE_COLOR" value="898941" />
-    <option name="SELECTION_BACKGROUND" value="4c5870" />
+    <option name="SELECTION_BACKGROUND" value="6e738f" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="ScrollBar.thumbColor" value="73737347" />
     <option name="TEARLINE_COLOR" value="656565" />
@@ -249,7 +250,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="596782" />
+        <option name="FOREGROUND" value="7d5992" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -280,7 +281,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="388ee9" />
+        <option name="FOREGROUND" value="589df6" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -489,7 +490,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="565c73" />
         <option name="EFFECT_COLOR" value="838789" />
       </value>
     </option>
@@ -527,16 +527,21 @@
     </option>
     <option name="JS.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f6985" />
+        <option name="FOREGROUND" value="717da0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="b27ecd" />
+        <option name="FOREGROUND" value="946bab" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="589df6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ecd069" />
@@ -544,8 +549,12 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="388ee9" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="63bdff" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="589df6" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -554,9 +563,14 @@
         <option name="BACKGROUND" value="bc3f3c" />
       </value>
     </option>
+    <option name="JS.LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="388ee9" />
+      </value>
+    </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="76d5de" />
+        <option name="FOREGROUND" value="589df6" />
       </value>
     </option>
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
@@ -671,7 +685,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a8b1bc" />
-        <option name="BACKGROUND" value="24272f" />
+        <option name="BACKGROUND" value="23262e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -706,8 +720,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="616100" />
-        <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
+        <option name="EFFECT_COLOR" value="86864f" />
+        <option name="ERROR_STRIPE_COLOR" value="86864f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
