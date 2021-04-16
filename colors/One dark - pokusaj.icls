@@ -1,11 +1,11 @@
-<scheme name="One dark moja" version="142" parent_scheme="Default">
+<scheme name="One dark - pokusaj" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-07-16T11:14:52</property>
+    <property name="created">2021-04-16T14:27:22</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2021-04-16T14:26:51</property>
-    <property name="originalScheme">One Dark copy</property>
+    <property name="ideVersion">2021.1.0.0</property>
+    <property name="modified">2021-04-16T14:53:55</property>
+    <property name="originalScheme">One dark moja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -280,12 +280,13 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c0ee9f" />
+        <option name="FOREGROUND" value="388ee9" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="589df6" />
+        <option name="FOREGROUND" value="63bdff" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -306,7 +307,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e895ff" />
+        <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -536,12 +537,7 @@
         <option name="FOREGROUND" value="b27ecd" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="388ee9" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="abb2ba" />
@@ -556,11 +552,6 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="bc3f3c" />
-      </value>
-    </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="b27ecd" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -686,7 +677,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a8b1bc" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="24272f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
