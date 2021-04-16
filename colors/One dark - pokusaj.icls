@@ -4,7 +4,7 @@
     <property name="created">2021-04-16T14:27:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-16T15:09:31</property>
+    <property name="modified">2021-04-16T15:31:43</property>
     <property name="originalScheme">One dark moja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
@@ -281,7 +281,6 @@
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="388ee9" />
-        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -540,7 +539,7 @@
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="abb2ba" />
+        <option name="FOREGROUND" value="ecd069" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
