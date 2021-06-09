@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="dev2.dogado.net" id="ef98c830-cf26-4a60-9388-9399be80b905" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="devtech" />
+    </configs>
+  </component>
+</application>
