@@ -19,6 +19,8 @@
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*php</mask>
+    <mask>*scss</mask>
+    <mask>*js</mask>
     <mask>*vue</mask>
   </component>
 </application>
