@@ -16,12 +16,13 @@
     <mask>*.</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*.vue</mask>
     <mask>*php</mask>
     <mask>*scss</mask>
     <mask>*vue</mask>
     <mask>*js</mask>
     <mask>*png</mask>
+    <mask>*.blade.php</mask>
+    <mask>*.vue</mask>
     <mask>*.js</mask>
   </component>
 </application>
