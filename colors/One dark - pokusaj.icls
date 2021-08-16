@@ -5,7 +5,7 @@
     <property name="description">One dark - moja</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-17T22:55:15</property>
+    <property name="modified">2021-08-16T14:47:30</property>
     <property name="originalScheme">One dark moja</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -55,6 +55,7 @@
     <option name="INFORMATION_HINT" value="4b4d4d" />
     <option name="LINE_NUMBERS_COLOR" value="6e80a2" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
+    <option name="LOOKUP_COLOR" value="343c4a" />
     <option name="METHOD_SEPARATORS_COLOR" value="656565" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
