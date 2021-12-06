@@ -1,5 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt 2" />

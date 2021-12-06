@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
   </component>
 </application>
