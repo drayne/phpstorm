@@ -24,5 +24,6 @@
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.pdf</mask>
   </component>
 </application>
