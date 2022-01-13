@@ -4,13 +4,16 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-13T16:05:43</property>
+    <property name="modified">2022-01-13T16:32:56</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
