@@ -4,7 +4,7 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-13T17:04:51</property>
+    <property name="modified">2022-01-13T17:28:08</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
@@ -659,7 +659,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="6b91d9" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -1532,7 +1532,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7f8591" />
+        <option name="FOREGROUND" value="628caa" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
