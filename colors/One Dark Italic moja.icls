@@ -4,7 +4,7 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-13T20:47:39</property>
+    <property name="modified">2022-01-14T15:06:38</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
@@ -16,7 +16,7 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.05" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="98c379" />
+    <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
     <option name="Bookmark.Mnemonic.iconBackground" value="3d424b" />
     <option name="Bookmark.Mnemonic.iconBorderColor" value="568af2" />
@@ -59,7 +59,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
     <option name="LOOKUP_COLOR" value="21252b" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
-    <option name="MODIFIED_LINES_COLOR" value="d19a66" />
+    <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="QUESTION_HINT" value="2e4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
     <option name="RIGHT_MARGIN_COLOR" value="3b4048" />
