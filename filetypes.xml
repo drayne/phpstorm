@@ -11,11 +11,6 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ezt" type="Smarty" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -23,6 +18,11 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="CartValidationPlugin.js" approved="true" type=".env file" />
       <removed_mapping pattern="Izvjestaji.js" approved="true" type="AUTO_DETECTED" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
