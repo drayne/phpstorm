@@ -11,6 +11,11 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ezt" type="Smarty" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
