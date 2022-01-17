@@ -116,4 +116,12 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="vp" value="const props = defineProps({&#10;  $id$: {&#10;    type: $String$ as PropType&lt;$string$&gt;,&#10;    required: true,&#10;  }&#10;})" description="Vue 3 Props" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="id" alwaysStopAt="true" />
+    <variable name="String" expression="" defaultValue="String" alwaysStopAt="true" />
+    <variable name="string" expression="" defaultValue="string" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
