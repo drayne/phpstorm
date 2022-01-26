@@ -18,6 +18,11 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="CartValidationPlugin.js" approved="true" type=".env file" />
       <removed_mapping pattern="Izvjestaji.js" approved="true" type="AUTO_DETECTED" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
