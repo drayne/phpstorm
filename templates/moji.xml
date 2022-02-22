@@ -159,4 +159,11 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="vw" value="watch (() =&gt; $ref$.value, (value) =&gt; {&#10;  $code$&#10;}, { deep: true })" description="Vue 3 Watch" toReformat="false" toShortenFQNames="true">
+    <variable name="ref" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
