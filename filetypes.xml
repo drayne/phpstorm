@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="hot" type="AUTO_DETECTED" />
-      <mapping pattern="domainTerminationMeta.json" type="AUTO_DETECTED" />
       <mapping pattern="temp" type="JavaScript" />
       <mapping pattern="Izvjestaji.js" type="JavaScript" />
       <mapping pattern="CartValidationPlugin.js" type="JavaScript" />

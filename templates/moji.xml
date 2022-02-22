@@ -124,4 +124,46 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="vs" value="&lt;template&gt;&#10;    $div$&#10;&lt;/template&gt;&#10;&lt;script setup lang=&quot;ts&quot;&gt;&#10;$script$&#10;&lt;/script&gt;" description="Vue 3 Setup Component" toReformat="true" toShortenFQNames="true">
+    <variable name="div" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="script" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+  <template name="ve" value="const emit = defineEmits([$event$])" description="Vue 3 Emits" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vreact" value="const $data$ = reactive({&#10;  $prop1$: '',&#10;  $prop2$: ''&#10;})" description="Vue 3 Reactive Object" toReformat="false" toShortenFQNames="true">
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="prop1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="prop2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vref" value="const $prop$ = ref($value$)" description="Vue 3 Ref Object" toReformat="false" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vcomputed" value="const $property$ = computed(() =&gt; {&#10;  $code$&#10;})" description="Vue 3 Computed" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vw" value="watch (() =&gt; $ref$.value, (value) =&gt; {&#10;  $code$&#10;}, { deep: true })" description="Vue 3 Watch" toReformat="false" toShortenFQNames="true">
+    <variable name="ref" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
