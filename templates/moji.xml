@@ -116,7 +116,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="v3p" value="const props = defineProps({&#10;  $id$: {&#10;    type: $String$ as PropType&lt;$string$&gt;,&#10;    required: true,&#10;  }&#10;})" description="Vue 3 Props" toReformat="false" toShortenFQNames="true">
+  <template name="vp" value="const props = defineProps({&#10;  $id$: {&#10;    type: $String$ as PropType&lt;$string$&gt;,&#10;    required: true,&#10;  }&#10;})" description="Vue 3 Props" toReformat="false" toShortenFQNames="true">
     <variable name="id" expression="" defaultValue="id" alwaysStopAt="true" />
     <variable name="String" expression="" defaultValue="String" alwaysStopAt="true" />
     <variable name="string" expression="" defaultValue="string" alwaysStopAt="true" />
@@ -124,11 +124,39 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="v3c" value="&lt;template&gt;&#10;    $div$&#10;&lt;/template&gt;&#10;&lt;script setup lang=&quot;ts&quot;&gt;&#10;$script$&#10;&lt;/script&gt;" description="Vue 3 Setup Component" toReformat="true" toShortenFQNames="true">
+  <template name="vs" value="&lt;template&gt;&#10;    $div$&#10;&lt;/template&gt;&#10;&lt;script setup lang=&quot;ts&quot;&gt;&#10;$script$&#10;&lt;/script&gt;" description="Vue 3 Setup Component" toReformat="true" toShortenFQNames="true">
     <variable name="div" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="script" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="Vue" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+  <template name="ve" value="const emit = defineEmits([$event$])" description="Vue 3 Emits" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vreact" value="const $data$ = reactive({&#10;  $prop1$: '',&#10;  $prop2$: ''&#10;})" description="Vue 3 Reactive Object" toReformat="false" toShortenFQNames="true">
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="prop1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="prop2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vref" value="const $prop$ = ref($value$)" description="Vue 3 Ref Object" toReformat="false" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vcomputed" value="const $property$ = computed(() =&gt; {&#10;  $code$&#10;})" description="Vue 3 Computed" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
