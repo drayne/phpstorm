@@ -25,5 +25,6 @@
     <mask>*.pdf</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
