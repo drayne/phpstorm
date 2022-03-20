@@ -20,11 +20,11 @@
     <mask>*js</mask>
     <mask>*png</mask>
     <mask>*.blade.php</mask>
-    <mask>*.php</mask>
     <mask>*.pdf</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
