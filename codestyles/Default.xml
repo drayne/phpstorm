@@ -9,9 +9,6 @@
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
   </PHPCodeStyleSettings>
-  <VueCodeStyleSettings>
-    <option name="UNIFORM_INDENT" value="false" />
-  </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
