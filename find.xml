@@ -22,9 +22,9 @@
     <mask>*.blade.php</mask>
     <mask>*.pdf</mask>
     <mask>*.ts</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
