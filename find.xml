@@ -23,8 +23,8 @@
     <mask>*.pdf</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
