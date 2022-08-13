@@ -2,11 +2,18 @@
   <action id="ActivateBookmarksToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -48,9 +55,6 @@
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f12" />
-  </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
