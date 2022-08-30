@@ -4,7 +4,7 @@
   </action>
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
-    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
@@ -17,6 +17,9 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateVcsChangesToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
@@ -33,6 +36,9 @@
   </action>
   <action id="GotoNextError" />
   <action id="JumpToLastWindow" />
+  <action id="ProjectView.ToolWindow.SecondaryActions">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
