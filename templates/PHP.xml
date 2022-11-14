@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="@test" value="/** @test */&#10;function $naziv$()&#10;{&#10;    $kod$&#10;}" description="test" toReformat="false" toShortenFQNames="true">
+    <variable name="naziv" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="kod" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

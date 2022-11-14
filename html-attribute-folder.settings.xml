@@ -1,0 +1,10 @@
+<application>
+  <component name="dev.zbinski.htmlattributefolder.AttributeFolderState">
+    <option name="attributes">
+      <list>
+        <option value="class" />
+        <option value=":class" />
+      </list>
+    </option>
+  </component>
+</application>

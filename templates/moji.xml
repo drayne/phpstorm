@@ -1,0 +1,175 @@
+<templateSet group="moji">
+  <template name="@test" value="/** @test */&#10;function $name$()&#10;{&#10;    $test$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="puf" value="public function $name$($param$)&#10;{&#10;    $code$&#10;}" description="public function" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_c" value="public function __construct($args$)&#10;{&#10;    &#10;}" description="Constructor template" toReformat="false" toShortenFQNames="true">
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="func" value="function ($args$){&#10;    $code$&#10;}" description="Callback function" toReformat="false" toShortenFQNames="true">
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fu" value="function $name$($args$)&#10;{&#10;    $code$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="re" value="return $value$;" description="return" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dvd" value="die(var_dump($value$));" description="Die(var_dump)" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vc" value="Vue.component('$name$', {&#10;    template: '',&#10;    data() { &#10;        return {&#10;        &#10;        }&#10;    },&#10;});" description="Vue component" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log($val$)" description="Console log" toReformat="false" toShortenFQNames="true">
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vroute" value="{&#10;    path: '/$path$',&#10;    name: '$name$',&#10;    component: $Component$&#10;}," description="Vue Route" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Component" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="axd" value="axios.delete('$route$') //add id to route: + id&#10;    .then(response =&gt; {&#10;        //redirect or inform&#10;    })&#10;    .catch(error =&gt; {&#10;        console.log('Internal error. Unable to delete.')                    &#10;    })" description="Axios delete" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axg" value="axios.get('$route$/' + this.$route.params.id)&#10;    .then(response =&gt; {&#10;        this.$data$ = response.data&#10;        this.loading = false&#10;    })&#10;    .catch(error =&gt; {&#10;        this.loading = false&#10;        if (error.response.status === 404) {&#10;            this.$router.push('/')&#10;        }&#10;    })" description="Axios get one" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axp" value="axios.post('$route$', $data$)&#10;    .then(response =&gt; {&#10;        //redirect or display with below&#10;        this.data = response.data&#10;    })&#10;    .catch(errors =&gt; {&#10;        this.errors = errors.response.data.errors&#10;    })" description="Axios post" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axpt" value="axios.patch('$route$', $data$) //add id to route: +id&#10;    .then(response =&gt; {&#10;        //redirect or display with below&#10;        this.data = response.data&#10;    })&#10;    .catch(errors =&gt; {&#10;        this.errors = errors.response.data.errors&#10;    })" description="Axios patch" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="&lt;rou" value="&lt;router-link :to=&quot;'/text/route' + $id$&quot;&gt;$name$&lt;/router-link&gt;" description="router-link string" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="&lt;ro" value="&lt;router-link to=&quot;/&quot;&gt;$name$&lt;/router-link&gt;" description="router-link route" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="axga" value="axios.get('$route$')&#10;    .then(response =&gt; {&#10;        this.$data$ = response.data&#10;        this.loading = false&#10;    })&#10;    .catch(error =&gt; {&#10;        this.loading = false&#10;        console.log('Unable to fetch')&#10;    })" description="Axios get all" toReformat="false" toShortenFQNames="true">
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vp" value="const props = defineProps({&#10;  $id$: {&#10;    type: $String$ as PropType&lt;$string$&gt;,&#10;    required: true,&#10;  }&#10;})" description="Vue 3 Props" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="id" alwaysStopAt="true" />
+    <variable name="String" expression="" defaultValue="String" alwaysStopAt="true" />
+    <variable name="string" expression="" defaultValue="string" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vs" value="&lt;template&gt;&#10;    $div$&#10;&lt;/template&gt;&#10;&lt;script setup lang=&quot;ts&quot;&gt;&#10;$script$&#10;&lt;/script&gt;" description="Vue 3 Setup Component" toReformat="true" toShortenFQNames="true">
+    <variable name="div" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="script" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+  <template name="ve" value="const emit = defineEmits([$event$])" description="Vue 3 Emits" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vreact" value="const $data$ = reactive({&#10;  $prop1$: '',&#10;  $prop2$: ''&#10;})" description="Vue 3 Reactive Object" toReformat="false" toShortenFQNames="true">
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="prop1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="prop2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vref" value="const $prop$ = ref($value$)" description="Vue 3 Ref Object" toReformat="false" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vcomputed" value="const $property$ = computed(() =&gt; {&#10;  $code$&#10;})" description="Vue 3 Computed" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vw" value="watch (() =&gt; $ref$.value, (value) =&gt; {&#10;  $code$&#10;}, { deep: true })" description="Vue 3 Watch" toReformat="false" toShortenFQNames="true">
+    <variable name="ref" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ap" value="@apply $class$;" description="@apply" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

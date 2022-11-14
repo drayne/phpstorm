@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="vue" value="    new Vue({&#10;        el: '#app',&#10;&#10;        data: {&#10;&#10;        },&#10;        methods: {&#10;            &#10;        }&#10;    });" description="New Vue app" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

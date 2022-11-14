@@ -1,0 +1,20 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="Vue" injector-id="xml">
+      <display-name>div/@style</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/html")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="VueJS" injector-id="xml">
+      <display-name>form</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("form")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="Vue" injector-id="xml">
+      <display-name>i/@class</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("class")).withNamespace(string().equalTo("http://www.w3.org/1999/html")).withParent(xmlTag().withLocalName(string().equalTo("i")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="Vue" injector-id="xml">
+      <display-name>input/@input</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>
