@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="Vue" value="new Vue({&#10;    el: '#app',&#10;&#10;    data: {&#10;&#10;    },&#10;    methods: {&#10;&#10;    }&#10;});" description="New Vue app" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="Vuex" value="Vue.use(Vuex);&#10;const store = new Vuex.Store({&#10;    state: {&#10;           &#10;    },&#10;    mutations: {&#10;       &#10;    }&#10;});" description="New Vuex store" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

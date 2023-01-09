@@ -1,0 +1,6 @@
+<application>
+  <component name="CrucibleSettings">
+    <option name="SERVER_URL" value="https://bitbucket.org/equidae/standard_application" />
+    <option name="USERNAME" value="equidae" />
+  </component>
+</application>

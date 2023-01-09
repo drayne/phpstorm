@@ -1,0 +1,16 @@
+<templateSet group="Laravel-Helpers">
+  <template name="@test" value="/** @test */&#10;public function $testName$()&#10;{&#10;    $code$&#10;}" description="Test Snippet" toReformat="false" toShortenFQNames="true">
+    <variable name="testName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="public function $functionName$()&#10;{&#10;    $code$&#10;}" description="Public function" toReformat="false" toShortenFQNames="true">
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
