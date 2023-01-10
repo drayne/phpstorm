@@ -4,4 +4,7 @@
       <version-cache version="16.15.1" last-modified="1654104582000" />
     </local-interpreter>
   </component>
+  <component name="WslNodeInterpreterManager">
+    <wsl-interpreter distribution="Ubuntu" path="/home/vedran/.nvm/versions/node/v16.3.0/bin/node" />
+  </component>
 </application>
