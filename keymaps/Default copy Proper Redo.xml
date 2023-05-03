@@ -1,0 +1,74 @@
+<keymap version="1" name="Default copy Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateVcsChangesToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift context_menu" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="EditorContextInfo" />
+  <action id="EditorDeleteLine" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="JumpToLastWindow" />
+  <action id="ProjectView.ToolWindow.SecondaryActions">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
