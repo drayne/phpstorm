@@ -11,6 +11,7 @@
         <entry key="vcs.code.vision" value="Right" />
       </map>
     </option>
+    <option name="enabled" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
