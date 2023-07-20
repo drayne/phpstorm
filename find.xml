@@ -24,7 +24,7 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*vue</mask>
-    <mask>*js</mask>
     <mask>*scss</mask>
+    <mask>*js</mask>
   </component>
 </application>
