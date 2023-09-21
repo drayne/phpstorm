@@ -9,6 +9,7 @@
     <entry key="eslint.service.node.arguments" value="--max_old_space_size=8192" />
     <entry key="ide.experimental.ui" value="true" />
     <entry key="debugger.new.tool.window.layout" value="true" />
+    <entry key="ide.experimental.ui.inter.font" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
