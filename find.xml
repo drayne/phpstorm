@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*js" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,8 +24,8 @@
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
-    <mask>*js</mask>
     <mask>*vue</mask>
     <mask>*scss</mask>
+    <mask>*js</mask>
   </component>
 </application>
