@@ -4,7 +4,7 @@
     <property name="created">2017-12-03T14:27:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2023-10-18T14:41:26</property>
+    <property name="modified">2023-10-18T15:30:55</property>
     <property name="originalScheme">google-code</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -448,7 +448,7 @@
         <option name="FOREGROUND" value="37474f" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="" />
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="dd1144" />
@@ -459,7 +459,7 @@
         <option name="FOREGROUND" value="9c27b0" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="86b3" />
@@ -470,7 +470,7 @@
         <option name="FOREGROUND" value="37474f" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="800080" />
