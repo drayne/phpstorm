@@ -1,7 +1,7 @@
 <scheme name="YKA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2023-12-07T12:46:27</property>
+    <property name="modified">2023-12-12T12:22:26</property>
     <property name="rainbow PHP">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
