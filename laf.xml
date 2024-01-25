@@ -1,7 +1,10 @@
 <application>
   <component name="LafManager">
+    <laf themeId="03a46e74-b73d-475c-a97a-758ca600f2c2" />
     <lafs-to-previous-schemes>
-      <laf-to-scheme laf="Dark" scheme="One Dark Italic moja" />
+      <laf-to-scheme laf="03a46e74-b73d-475c-a97a-758ca600f2c2" scheme="Atom One Dark" />
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="One Dark Italic moja" />
     </lafs-to-previous-schemes>
   </component>
 </application>
