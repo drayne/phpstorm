@@ -4,7 +4,7 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-01-26T10:13:37</property>
+    <property name="modified">2024-01-26T12:06:30</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.03" />
@@ -659,7 +659,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -1632,6 +1632,26 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="PHP_DOC_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="4d8cbf" />
+      </value>
+    </option>
+    <option name="PHP_DOC_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a77b51" />
+      </value>
+    </option>
+    <option name="PHP_DOC_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="b3565d" />
+      </value>
+    </option>
+    <option name="PHP_DOC_VAR">
+      <value>
+        <option name="FOREGROUND" value="4d8cbf" />
+      </value>
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -1640,6 +1660,11 @@
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
