@@ -4,7 +4,7 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-01-29T14:28:54</property>
+    <property name="modified">2024-01-29T14:55:49</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -67,6 +67,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
     <option name="SELECTION_BACKGROUND" value="404859" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
+    <option name="TAB_UNDERLINE" value="528bff" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="38596c" />
     <option name="TEARLINE_COLOR" value="4f575f" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
@@ -656,7 +658,6 @@
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -1032,12 +1033,6 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="98c379" />
-      </value>
-    </option>
-    <option name="HTML_CUSTOM_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="26bda4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -2191,6 +2186,9 @@
       <value>
         <option name="BACKGROUND" value="3d4148" />
       </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value />
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
