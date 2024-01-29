@@ -4,7 +4,7 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-01-29T14:02:54</property>
+    <property name="modified">2024-01-29T14:28:54</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -655,7 +655,8 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -682,7 +683,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c678dd" />
+        <option name="FOREGROUND" value="c775df" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -734,7 +735,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="88af6c" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -1031,6 +1032,12 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="26bda4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -1668,11 +1675,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="PHP_HEREDOC_ID">
-      <value>
-        <option name="FOREGROUND" value="c678dd" />
-      </value>
-    </option>
     <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2183,6 +2185,11 @@
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="3d4148" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
