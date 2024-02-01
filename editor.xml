@@ -21,6 +21,7 @@
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.type.hints" value="false" />
+        <entry key="ts.type.hints" value="false" />
       </map>
     </option>
   </component>

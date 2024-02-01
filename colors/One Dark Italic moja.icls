@@ -4,18 +4,19 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-01-26T12:31:48</property>
+    <property name="modified">2024-01-29T19:20:08</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.03" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.03" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="2d4134" />
+    <option name="ADDED_LINES_COLOR" value="699a7c" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
     <option name="Bookmark.Mnemonic.iconBackground" value="3d424b" />
     <option name="Bookmark.Mnemonic.iconBorderColor" value="568af2" />
@@ -58,7 +59,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
     <option name="LOOKUP_COLOR" value="21252b" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
-    <option name="MODIFIED_LINES_COLOR" value="2c4957" />
+    <option name="MODIFIED_LINES_COLOR" value="4d7f96" />
     <option name="QUESTION_HINT" value="2e4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
     <option name="RIGHT_MARGIN_COLOR" value="3b4048" />
@@ -66,6 +67,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
     <option name="SELECTION_BACKGROUND" value="404859" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
+    <option name="TAB_UNDERLINE" value="528bff" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="38596c" />
     <option name="TEARLINE_COLOR" value="4f575f" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
@@ -654,7 +657,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -681,7 +684,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c678dd" />
+        <option name="FOREGROUND" value="c775df" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -733,7 +736,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="88af6c" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -1191,6 +1194,11 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+      </value>
+    </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
@@ -1660,11 +1668,6 @@
     <option name="PHP_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="PHP_HEREDOC_ID">
-      <value>
-        <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
     <option name="PHP_IDENTIFIER">
@@ -2178,6 +2181,14 @@
       <value>
         <option name="FOREGROUND" value="d19a66" />
       </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="3d4148" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value />
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
