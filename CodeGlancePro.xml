@@ -3,7 +3,6 @@
     <option name="mainWidth" value="90" />
     <option name="previewWidth" value="35" />
     <option name="showOtherFullLineHighlight" value="true" />
-    <option name="syntaxHighlight" value="false" />
     <option name="unTypedWidth" value="35" />
   </component>
 </application>
