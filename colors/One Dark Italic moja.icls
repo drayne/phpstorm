@@ -4,7 +4,7 @@
     <property name="created">2022-01-13T16:04:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-03-09T00:17:17</property>
+    <property name="modified">2024-03-09T00:25:29</property>
     <property name="originalScheme">_@user_One Dark Italic</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -1044,7 +1044,7 @@
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="c96169" />
       </value>
     </option>
     <option name="HTTP_REQUEST_INPUT_FILE">
