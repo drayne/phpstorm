@@ -5,7 +5,7 @@
     <property name="description">One dark - moja</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2024-02-29T15:58:33</property>
+    <property name="modified">2024-03-08T23:38:08</property>
     <property name="originalScheme">One dark moja</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -664,7 +664,7 @@
         <option name="FOREGROUND" value="ff2443" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value />
     </option>
