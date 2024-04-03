@@ -1,6 +1,8 @@
 <application>
   <component name="CodeGlance Pro">
+    <option name="hideOriginalScrollBar" value="true" />
     <option name="mainWidth" value="90" />
+    <option name="mouseWheelMoveEditorToolTip" value="true" />
     <option name="previewWidth" value="35" />
     <option name="showOtherFullLineHighlight" value="true" />
     <option name="unTypedWidth" value="35" />
