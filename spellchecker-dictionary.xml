@@ -28,10 +28,12 @@
       <w>placanje</w>
       <w>preduzeca</w>
       <w>preduzece</w>
+      <w>pretraga</w>
       <w>prezime</w>
       <w>promet</w>
       <w>promocode</w>
       <w>racun</w>
+      <w>racuna</w>
       <w>racuni</w>
       <w>radno</w>
       <w>redni</w>
@@ -48,6 +50,7 @@
       <w>telefona</w>
       <w>telefoni</w>
       <w>ukupno</w>
+      <w>unos</w>
       <w>verzija</w>
     </words>
   </component>
