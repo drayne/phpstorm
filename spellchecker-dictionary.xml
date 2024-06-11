@@ -3,12 +3,15 @@
     <words>
       <w>adresa</w>
       <w>broj</w>
+      <w>dnevni</w>
       <w>domaincheck</w>
       <w>fillable</w>
+      <w>godina</w>
       <w>jedinica</w>
       <w>kapital</w>
       <w>kasa</w>
       <w>kase</w>
+      <w>kolicina</w>
       <w>konverzije</w>
       <w>maticni</w>
       <w>mjesto</w>
@@ -16,24 +19,33 @@
       <w>naziv</w>
       <w>obveznik</w>
       <w>odnos</w>
+      <w>odstampan</w>
       <w>opstina</w>
       <w>opstine</w>
       <w>organizaciona</w>
+      <w>osnovica</w>
       <w>preduzeca</w>
       <w>preduzece</w>
       <w>prezime</w>
+      <w>promet</w>
       <w>promocode</w>
+      <w>racun</w>
       <w>racuni</w>
       <w>radno</w>
+      <w>redni</w>
       <w>semibold</w>
       <w>sepa</w>
       <w>sifra</w>
       <w>skonto</w>
       <w>soleil</w>
+      <w>stavke</w>
+      <w>storniran</w>
+      <w>storno</w>
       <w>subitem</w>
       <w>subitems</w>
       <w>telefona</w>
       <w>telefoni</w>
+      <w>ukupno</w>
       <w>verzija</w>
     </words>
   </component>
