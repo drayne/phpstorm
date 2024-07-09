@@ -13,11 +13,13 @@
       <w>domaincheck</w>
       <w>dostupan</w>
       <w>dostupne</w>
+      <w>errora</w>
       <w>esir</w>
       <w>fillable</w>
       <w>godina</w>
       <w>gotov</w>
       <w>jedinica</w>
+      <w>jednoj</w>
       <w>kada</w>
       <w>kapital</w>
       <w>karticom</w>
@@ -34,6 +36,7 @@
       <w>maticni</w>
       <w>mjere</w>
       <w>mjesto</w>
+      <w>moguce</w>
       <w>montez</w>
       <w>nabavna</w>
       <w>napomena</w>
@@ -52,6 +55,7 @@
       <w>paketi</w>
       <w>placanje</w>
       <w>poreza</w>
+      <w>postoji</w>
       <w>poziva</w>
       <w>preduzeca</w>
       <w>preduzece</w>
@@ -62,6 +66,7 @@
       <w>proizvod</w>
       <w>promet</w>
       <w>promocode</w>
+      <w>propertije</w>
       <w>provjera</w>
       <w>racun</w>
       <w>racuna</w>
@@ -78,6 +83,7 @@
       <w>skonto</w>
       <w>slucaj</w>
       <w>soleil</w>
+      <w>stavci</w>
       <w>stavka</w>
       <w>stavke</w>
       <w>stopa</w>
@@ -93,6 +99,7 @@
       <w>ukupno</w>
       <w>unos</w>
       <w>verzija</w>
+      <w>vracam</w>
     </words>
   </component>
 </application>
