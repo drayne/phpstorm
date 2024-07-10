@@ -9,6 +9,7 @@
       <w>barkod</w>
       <w>broj</w>
       <w>cijena</w>
+      <w>cuvam</w>
       <w>dnevni</w>
       <w>domaincheck</w>
       <w>dostupan</w>
@@ -18,6 +19,7 @@
       <w>fillable</w>
       <w>godina</w>
       <w>gotov</w>
+      <w>inicijalizacija</w>
       <w>jedinica</w>
       <w>jednoj</w>
       <w>kada</w>
@@ -26,6 +28,7 @@
       <w>kasa</w>
       <w>kase</w>
       <w>kasu</w>
+      <w>kojih</w>
       <w>kolicina</w>
       <w>kombinacija</w>
       <w>konverzije</w>
@@ -45,22 +48,28 @@
       <w>nijednu</w>
       <w>nula</w>
       <w>obveznik</w>
+      <w>odgovarajuce</w>
       <w>odnos</w>
       <w>odstampan</w>
       <w>opstina</w>
       <w>opstine</w>
       <w>organizaciona</w>
       <w>osnovica</w>
+      <w>osnovu</w>
       <w>oznaka</w>
       <w>paketi</w>
       <w>placanje</w>
       <w>poreza</w>
+      <w>poruke</w>
+      <w>poseban</w>
       <w>postoji</w>
+      <w>potreban</w>
       <w>poziva</w>
       <w>preduzeca</w>
       <w>preduzece</w>
       <w>pretraga</w>
       <w>prezime</w>
+      <w>prikazati</w>
       <w>pripada</w>
       <w>procenat</w>
       <w>proizvod</w>
@@ -91,6 +100,7 @@
       <w>storno</w>
       <w>subitem</w>
       <w>subitems</w>
+      <w>svaki</w>
       <w>telefon</w>
       <w>telefona</w>
       <w>telefoni</w>
