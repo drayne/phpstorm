@@ -24,8 +24,8 @@
     <mask>*.</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
-    <mask>*.vue</mask>
     <mask>*.scss</mask>
+    <mask>*.vue</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
