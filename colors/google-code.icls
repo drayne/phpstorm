@@ -354,8 +354,8 @@
         <option name="FOREGROUND" value="9c27b0" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="d904f" />
@@ -373,13 +373,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
     <option name="JS.NUMBER">
       <value>
         <option name="FOREGROUND" value="9999" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="d904f" />
@@ -448,7 +448,7 @@
         <option name="FOREGROUND" value="37474f" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="" />
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="dd1144" />
@@ -459,7 +459,7 @@
         <option name="FOREGROUND" value="9c27b0" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_PARAMETER" baseAttributes="" />
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="86b3" />
@@ -470,7 +470,7 @@
         <option name="FOREGROUND" value="37474f" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="800080" />
