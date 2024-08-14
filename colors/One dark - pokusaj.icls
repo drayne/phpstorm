@@ -664,7 +664,7 @@
         <option name="FOREGROUND" value="ff2443" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value />
     </option>
