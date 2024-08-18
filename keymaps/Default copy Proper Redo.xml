@@ -71,4 +71,7 @@
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="copilot.chat.show">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
 </keymap>
