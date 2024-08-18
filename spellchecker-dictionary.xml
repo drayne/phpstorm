@@ -18,6 +18,7 @@
       <w>dostupne</w>
       <w>errora</w>
       <w>esir</w>
+      <w>esira</w>
       <w>esiru</w>
       <w>fillable</w>
       <w>godina</w>
@@ -88,7 +89,9 @@
       <w>radno</w>
       <w>redni</w>
       <w>referencama</w>
+      <w>referencu</w>
       <w>sacuvana</w>
+      <w>saljemo</w>
       <w>samo</w>
       <w>semibold</w>
       <w>sepa</w>
@@ -99,6 +102,7 @@
       <w>slucaj</w>
       <w>soleil</w>
       <w>stampamo</w>
+      <w>stampu</w>
       <w>stavci</w>
       <w>stavka</w>
       <w>stavke</w>
@@ -117,6 +121,7 @@
       <w>unos</w>
       <w>verzija</w>
       <w>vracam</w>
+      <w>zatim</w>
     </words>
   </component>
 </application>
