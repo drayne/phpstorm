@@ -27,13 +27,16 @@
       <w>fillable</w>
       <w>godina</w>
       <w>gotov</w>
+      <w>gotovina</w>
       <w>inicijalizacija</w>
       <w>inicijalno</w>
+      <w>izaberite</w>
       <w>iznos</w>
       <w>jedinica</w>
       <w>jednoj</w>
       <w>kada</w>
       <w>kapital</w>
+      <w>kartica</w>
       <w>karticom</w>
       <w>kasa</w>
       <w>kase</w>
@@ -54,6 +57,7 @@
       <w>nabavna</w>
       <w>napomena</w>
       <w>naziv</w>
+      <w>način</w>
       <w>nema</w>
       <w>nijednu</w>
       <w>nula</w>
@@ -84,6 +88,7 @@
       <w>preduzeca</w>
       <w>preduzece</w>
       <w>pretraga</w>
+      <w>pretraži</w>
       <w>prezime</w>
       <w>prikazati</w>
       <w>pripada</w>
@@ -122,6 +127,8 @@
       <w>stavke</w>
       <w>stopa</w>
       <w>storniran</w>
+      <w>stornirane</w>
+      <w>stornirani</w>
       <w>storno</w>
       <w>subitem</w>
       <w>subitems</w>
