@@ -3,27 +3,42 @@
     <words>
       <w>adresa</w>
       <w>aktivna</w>
+      <w>aktivnu</w>
       <w>arikal</w>
       <w>artikal</w>
       <w>artikli</w>
+      <w>automatski</w>
       <w>barkod</w>
+      <w>bazi</w>
       <w>broj</w>
       <w>cijena</w>
+      <w>cuvam</w>
+      <w>cuvamo</w>
+      <w>dnevne</w>
       <w>dnevni</w>
       <w>domaincheck</w>
       <w>dostupan</w>
       <w>dostupne</w>
+      <w>errora</w>
       <w>esir</w>
+      <w>esira</w>
+      <w>esiru</w>
+      <w>fetchujemo</w>
       <w>fillable</w>
       <w>godina</w>
       <w>gotov</w>
+      <w>inicijalizacija</w>
+      <w>inicijalno</w>
+      <w>iznos</w>
       <w>jedinica</w>
+      <w>jednoj</w>
       <w>kada</w>
       <w>kapital</w>
       <w>karticom</w>
       <w>kasa</w>
       <w>kase</w>
       <w>kasu</w>
+      <w>kojih</w>
       <w>kolicina</w>
       <w>kombinacija</w>
       <w>konverzije</w>
@@ -34,6 +49,7 @@
       <w>maticni</w>
       <w>mjere</w>
       <w>mjesto</w>
+      <w>moguce</w>
       <w>montez</w>
       <w>nabavna</w>
       <w>napomena</w>
@@ -42,42 +58,66 @@
       <w>nijednu</w>
       <w>nula</w>
       <w>obveznik</w>
+      <w>odgovarajuce</w>
       <w>odnos</w>
       <w>odstampan</w>
       <w>opstina</w>
       <w>opstine</w>
       <w>organizaciona</w>
       <w>osnovica</w>
+      <w>osnovu</w>
       <w>oznaka</w>
       <w>paketi</w>
+      <w>perun</w>
+      <w>placanja</w>
       <w>placanje</w>
+      <w>podesavanje</w>
       <w>poreza</w>
+      <w>poruke</w>
+      <w>poseban</w>
+      <w>poslat</w>
+      <w>poslato</w>
+      <w>postavlja</w>
+      <w>postoji</w>
+      <w>potreban</w>
       <w>poziva</w>
       <w>preduzeca</w>
       <w>preduzece</w>
       <w>pretraga</w>
       <w>prezime</w>
+      <w>prikazati</w>
       <w>pripada</w>
       <w>procenat</w>
       <w>proizvod</w>
       <w>promet</w>
       <w>promocode</w>
+      <w>propertije</w>
       <w>provjera</w>
+      <w>prvo</w>
       <w>racun</w>
       <w>racuna</w>
+      <w>racune</w>
       <w>racuni</w>
       <w>radno</w>
       <w>redni</w>
+      <w>referencama</w>
+      <w>referencu</w>
       <w>sacuvana</w>
+      <w>saljemo</w>
       <w>samo</w>
+      <w>sačuvan</w>
       <w>semibold</w>
       <w>sepa</w>
+      <w>serveru</w>
       <w>sifra</w>
       <w>skladista</w>
       <w>skladiste</w>
       <w>skonto</w>
       <w>slucaj</w>
       <w>soleil</w>
+      <w>stampamo</w>
+      <w>stampu</w>
+      <w>stavci</w>
       <w>stavka</w>
       <w>stavke</w>
       <w>stopa</w>
@@ -85,14 +125,21 @@
       <w>storno</w>
       <w>subitem</w>
       <w>subitems</w>
+      <w>svaki</w>
       <w>telefon</w>
       <w>telefona</w>
       <w>telefoni</w>
       <w>uklanja</w>
       <w>uklanjamo</w>
+      <w>ukupan</w>
       <w>ukupno</w>
       <w>unos</w>
+      <w>uplate</w>
+      <w>uspješno</w>
       <w>verzija</w>
+      <w>vracam</w>
+      <w>vrsta</w>
+      <w>zatim</w>
     </words>
   </component>
 </application>
