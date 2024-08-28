@@ -25,6 +25,7 @@
       <w>esiru</w>
       <w>fetchujemo</w>
       <w>fillable</w>
+      <w>fiskalizuj</w>
       <w>fiskalnog</w>
       <w>godina</w>
       <w>gotov</w>
@@ -54,6 +55,7 @@
       <w>mjere</w>
       <w>mjesto</w>
       <w>moguce</w>
+      <w>moguceg</w>
       <w>montez</w>
       <w>nabavna</w>
       <w>napomena</w>
@@ -62,6 +64,7 @@
       <w>nema</w>
       <w>nije</w>
       <w>nijednu</w>
+      <w>novog</w>
       <w>nula</w>
       <w>obveznik</w>
       <w>odgovarajuce</w>
@@ -114,6 +117,8 @@
       <w>referencama</w>
       <w>referencu</w>
       <w>refundaciju</w>
+      <w>resetujemo</w>
+      <w>responsa</w>
       <w>sacuvana</w>
       <w>saljemo</w>
       <w>samo</w>
@@ -121,6 +126,7 @@
       <w>semibold</w>
       <w>sepa</w>
       <w>serveru</w>
+      <w>setovanog</w>
       <w>sifra</w>
       <w>skladista</w>
       <w>skladiste</w>
@@ -156,7 +162,9 @@
       <w>vracam</w>
       <w>vrijeme</w>
       <w>vrsta</w>
+      <w>zapocinjemo</w>
       <w>zatim</w>
+      <w>zbog</w>
     </words>
   </component>
 </application>
