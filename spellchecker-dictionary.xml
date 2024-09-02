@@ -25,15 +25,19 @@
       <w>esiru</w>
       <w>fetchujemo</w>
       <w>fillable</w>
+      <w>fiskalnog</w>
       <w>godina</w>
       <w>gotov</w>
+      <w>gotovina</w>
       <w>inicijalizacija</w>
       <w>inicijalno</w>
+      <w>izaberite</w>
       <w>iznos</w>
       <w>jedinica</w>
       <w>jednoj</w>
       <w>kada</w>
       <w>kapital</w>
+      <w>kartica</w>
       <w>karticom</w>
       <w>kasa</w>
       <w>kase</w>
@@ -54,13 +58,16 @@
       <w>nabavna</w>
       <w>napomena</w>
       <w>naziv</w>
+      <w>način</w>
       <w>nema</w>
+      <w>nije</w>
       <w>nijednu</w>
       <w>nula</w>
       <w>obveznik</w>
       <w>odgovarajuce</w>
       <w>odnos</w>
       <w>odstampan</w>
+      <w>omoguciti</w>
       <w>opstina</w>
       <w>opstine</w>
       <w>organizaciona</w>
@@ -72,6 +79,7 @@
       <w>placanja</w>
       <w>placanje</w>
       <w>podesavanje</w>
+      <w>podrsku</w>
       <w>poreza</w>
       <w>poruke</w>
       <w>poseban</w>
@@ -80,10 +88,13 @@
       <w>postavlja</w>
       <w>postoji</w>
       <w>potreban</w>
+      <w>potrebno</w>
       <w>poziva</w>
       <w>preduzeca</w>
       <w>preduzece</w>
       <w>pretraga</w>
+      <w>pretrazi</w>
+      <w>pretraži</w>
       <w>prezime</w>
       <w>prikazati</w>
       <w>pripada</w>
@@ -102,6 +113,7 @@
       <w>redni</w>
       <w>referencama</w>
       <w>referencu</w>
+      <w>refundaciju</w>
       <w>sacuvana</w>
       <w>saljemo</w>
       <w>samo</w>
@@ -122,6 +134,8 @@
       <w>stavke</w>
       <w>stopa</w>
       <w>storniran</w>
+      <w>stornirane</w>
+      <w>stornirani</w>
       <w>storno</w>
       <w>subitem</w>
       <w>subitems</w>
@@ -133,11 +147,13 @@
       <w>uklanjamo</w>
       <w>ukupan</w>
       <w>ukupno</w>
+      <w>unesu</w>
       <w>unos</w>
       <w>uplate</w>
       <w>uspješno</w>
       <w>verzija</w>
       <w>vracam</w>
+      <w>vrijeme</w>
       <w>vrsta</w>
       <w>zatim</w>
     </words>
