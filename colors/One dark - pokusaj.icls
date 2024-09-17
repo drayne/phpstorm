@@ -541,7 +541,7 @@
         <option name="FOREGROUND" value="946bab" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ecd069" />
@@ -574,7 +574,7 @@
         <option name="FOREGROUND" value="ff7c75" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="3da9c2" />
@@ -664,7 +664,7 @@
         <option name="FOREGROUND" value="ff2443" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value />
     </option>

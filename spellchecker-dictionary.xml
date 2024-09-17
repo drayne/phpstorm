@@ -25,6 +25,8 @@
       <w>esiru</w>
       <w>fetchujemo</w>
       <w>fillable</w>
+      <w>fiskalizacije</w>
+      <w>fiskalizuj</w>
       <w>fiskalnog</w>
       <w>godina</w>
       <w>gotov</w>
@@ -45,6 +47,7 @@
       <w>kojih</w>
       <w>kolicina</w>
       <w>kombinacija</w>
+      <w>komponentu</w>
       <w>konverzije</w>
       <w>korisnici</w>
       <w>korisnik</w>
@@ -54,15 +57,20 @@
       <w>mjere</w>
       <w>mjesto</w>
       <w>moguce</w>
+      <w>moguceg</w>
       <w>montez</w>
+      <w>mountovalo</w>
       <w>nabavna</w>
       <w>napomena</w>
+      <w>napraviti</w>
       <w>naziv</w>
       <w>način</w>
       <w>nema</w>
       <w>nije</w>
       <w>nijednu</w>
+      <w>novog</w>
       <w>nula</w>
+      <w>obrisi</w>
       <w>obveznik</w>
       <w>odgovarajuce</w>
       <w>odnos</w>
@@ -80,6 +88,7 @@
       <w>placanje</w>
       <w>podesavanje</w>
       <w>podrsku</w>
+      <w>ponovno</w>
       <w>poreza</w>
       <w>poruke</w>
       <w>poseban</w>
@@ -97,10 +106,12 @@
       <w>pretraži</w>
       <w>prezime</w>
       <w>prikazati</w>
+      <w>prilikom</w>
       <w>pripada</w>
       <w>procenat</w>
       <w>proizvod</w>
       <w>promet</w>
+      <w>promjena</w>
       <w>promocode</w>
       <w>propertije</w>
       <w>provjera</w>
@@ -111,9 +122,12 @@
       <w>racuni</w>
       <w>radno</w>
       <w>redni</w>
+      <w>referenca</w>
       <w>referencama</w>
       <w>referencu</w>
       <w>refundaciju</w>
+      <w>resetujemo</w>
+      <w>responsa</w>
       <w>sacuvana</w>
       <w>saljemo</w>
       <w>samo</w>
@@ -121,6 +135,7 @@
       <w>semibold</w>
       <w>sepa</w>
       <w>serveru</w>
+      <w>setovanog</w>
       <w>sifra</w>
       <w>skladista</w>
       <w>skladiste</w>
@@ -133,9 +148,11 @@
       <w>stavka</w>
       <w>stavke</w>
       <w>stopa</w>
+      <w>storniraj</w>
       <w>storniran</w>
       <w>stornirane</w>
       <w>stornirani</w>
+      <w>stornirano</w>
       <w>storno</w>
       <w>subitem</w>
       <w>subitems</w>
@@ -155,7 +172,9 @@
       <w>vracam</w>
       <w>vrijeme</w>
       <w>vrsta</w>
+      <w>zapocinjemo</w>
       <w>zatim</w>
+      <w>zbog</w>
     </words>
   </component>
 </application>
