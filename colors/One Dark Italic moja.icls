@@ -1040,7 +1040,7 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1192,14 +1192,14 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
@@ -2329,7 +2329,7 @@
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />
