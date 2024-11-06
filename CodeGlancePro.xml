@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGlance Pro">
+    <option name="diffWidth" value="46" />
     <option name="hideOriginalScrollBar" value="true" />
     <option name="mainWidth" value="117" />
     <option name="mouseWheelMoveEditorToolTip" value="true" />
