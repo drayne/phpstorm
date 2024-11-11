@@ -7,6 +7,7 @@
       <w>arikal</w>
       <w>artikal</w>
       <w>artikli</w>
+      <w>automatska</w>
       <w>automatski</w>
       <w>avans</w>
       <w>avansa</w>
@@ -44,6 +45,7 @@
       <w>jedinica</w>
       <w>jednoj</w>
       <w>kada</w>
+      <w>kalkulacija</w>
       <w>kapital</w>
       <w>kartica</w>
       <w>karticom</w>
@@ -60,6 +62,7 @@
       <w>korisnik</w>
       <w>korisnikove</w>
       <w>korisniku</w>
+      <w>kupca</w>
       <w>maticni</w>
       <w>mjere</w>
       <w>mjesto</w>
@@ -110,9 +113,11 @@
       <w>postoji</w>
       <w>potreban</w>
       <w>potrebno</w>
+      <w>povrat</w>
       <w>poziva</w>
       <w>preduzeca</w>
       <w>preduzece</w>
+      <w>prenosnica</w>
       <w>prethodni</w>
       <w>pretraga</w>
       <w>pretrazi</w>
@@ -189,6 +194,7 @@
       <w>vrsta</w>
       <w>zapocinjemo</w>
       <w>zatim</w>
+      <w>zavisni</w>
       <w>zbog</w>
     </words>
   </component>
