@@ -6,6 +6,7 @@
       <w>aktivnu</w>
       <w>arikal</w>
       <w>artikal</w>
+      <w>artikla</w>
       <w>artikli</w>
       <w>automatska</w>
       <w>automatski</w>
@@ -25,6 +26,7 @@
       <w>domaincheck</w>
       <w>dostupan</w>
       <w>dostupne</w>
+      <w>dozvoljenu</w>
       <w>errora</w>
       <w>esir</w>
       <w>esira</w>
@@ -36,6 +38,7 @@
       <w>fiskalizovani</w>
       <w>fiskalizuj</w>
       <w>fiskalnog</w>
+      <w>fleguje</w>
       <w>godina</w>
       <w>gotov</w>
       <w>gotovina</w>
@@ -55,6 +58,7 @@
       <w>kasu</w>
       <w>kojih</w>
       <w>kolicina</w>
+      <w>kolicinu</w>
       <w>kombinacija</w>
       <w>komponentu</w>
       <w>konacni</w>
@@ -66,6 +70,7 @@
       <w>kupca</w>
       <w>manjak</w>
       <w>maticni</w>
+      <w>minimalnu</w>
       <w>mjere</w>
       <w>mjesto</w>
       <w>moguce</w>
@@ -76,6 +81,7 @@
       <w>napomena</w>
       <w>napraviti</w>
       <w>naredni</w>
+      <w>nastaje</w>
       <w>naziv</w>
       <w>način</w>
       <w>nema</w>
@@ -83,6 +89,7 @@
       <w>nije</w>
       <w>nijednu</w>
       <w>nivelacija</w>
+      <w>novi</w>
       <w>novog</w>
       <w>nula</w>
       <w>obrisi</w>
@@ -99,6 +106,7 @@
       <w>otpis</w>
       <w>oznaka</w>
       <w>paketi</w>
+      <w>paralelni</w>
       <w>perun</w>
       <w>placanja</w>
       <w>placanje</w>
@@ -119,6 +127,7 @@
       <w>potrebno</w>
       <w>povrat</w>
       <w>poziva</w>
+      <w>predstavlja</w>
       <w>preduzeca</w>
       <w>preduzece</w>
       <w>prenosnica</w>
@@ -171,11 +180,13 @@
       <w>stavci</w>
       <w>stavka</w>
       <w>stavke</w>
+      <w>stavku</w>
       <w>stopa</w>
       <w>storniraj</w>
       <w>storniran</w>
       <w>stornirane</w>
       <w>stornirani</w>
+      <w>storniranjem</w>
       <w>stornirano</w>
       <w>storno</w>
       <w>subitem</w>
@@ -195,10 +206,12 @@
       <w>uspješno</w>
       <w>verzija</w>
       <w>visak</w>
+      <w>vraca</w>
       <w>vracam</w>
       <w>vrijeme</w>
       <w>vrsta</w>
       <w>zapocinjemo</w>
+      <w>zapravo</w>
       <w>zatim</w>
       <w>zavisni</w>
       <w>zbog</w>
