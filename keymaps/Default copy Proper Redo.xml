@@ -23,13 +23,11 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="ActivateVcsChangesToolWindow">
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift context_menu" />
+    <keyboard-shortcut first-keystroke="alt delete" />
   </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -48,10 +46,12 @@
   <action id="ProjectView.ToolWindow.SecondaryActions">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="RecentChanges" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="SafeDelete" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -74,7 +74,11 @@
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
-  <action id="copilot.chat.show">
+  <action id="copilot.chat.inline">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="copilot.chat.show">
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
 </keymap>
