@@ -114,7 +114,7 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="7eaef1" />
@@ -135,7 +135,7 @@
         <option name="FOREGROUND" value="33cccc" />
       </value>
     </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
+    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
