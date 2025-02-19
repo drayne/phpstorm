@@ -114,7 +114,7 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="7eaef1" />
@@ -135,7 +135,7 @@
         <option name="FOREGROUND" value="33cccc" />
       </value>
     </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
@@ -672,17 +672,17 @@
         <option name="FOREGROUND" value="ff4427" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JS.REGEXP" baseAttributes="" />
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
