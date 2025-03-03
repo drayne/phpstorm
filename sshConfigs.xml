@@ -5,6 +5,9 @@
       <sshConfig host="164.92.231.76" id="de80ce8c-c613-4439-bebe-2faf327abf44" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="sgb - forge" nameFormat="CUSTOM" username="forge" useOpenSSHConfig="true">
         <option name="customName" value="sgb - forge" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="46.101.158.188" id="4b8ad90d-9283-4b7c-af8a-c99945abb823" port="22" customName="forge@perun-test-and-others" nameFormat="CUSTOM" username="forge" useOpenSSHConfig="true">
+        <option name="customName" value="forge@perun-test-and-others" />
+      </sshConfig>
     </configs>
   </component>
 </application>
